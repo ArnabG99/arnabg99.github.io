@@ -1,0 +1,13 @@
+body{
+    background:#2fa6b6;
+}
+.front_img{
+    align-content:left;
+}
+.front_img img{
+    width:50%;
+    
+}
+.hi{
+    align-content:right;
+}
